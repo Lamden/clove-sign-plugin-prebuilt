@@ -13,7 +13,7 @@ Tool for signing raw transaction in bitcoin and ethereum based networks.
 ##### Load the extension in Chrome & Opera
 1. Open Chrome/Opera browser and navigate to chrome://extensions
 2. Select "Developer Mode" and then click "Load unpacked extension..."
-3. From the file browser, choose `clove-sign-plugin-prebuilt/
+3. From the file browser, choose the folder "clove-sign-plugin-prebuilt-master/"
 
 ##### Load the extension in Firefox
 1. Open Firefox browser and navigate to about:debugging
