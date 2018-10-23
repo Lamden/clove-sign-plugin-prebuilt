@@ -17,4 +17,4 @@ Tool for signing raw transaction in bitcoin and ethereum based networks.
 
 ##### Load the extension in Firefox
 1. Open Firefox browser and navigate to about:debugging
-2. Click "Load Temporary Add-on" and from the file browser, choose `clove-sign-plugin/build/manifest.json`
+2. Click "Load Temporary Add-on" and from the file browser, choose `clove-sign-plugin-prebuilt-master/manifest.json`
