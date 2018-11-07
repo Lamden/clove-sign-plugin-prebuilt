@@ -1,6 +1,6 @@
 # clove-sign-plugin-prebuilt
 
-version number: 0.0.1
+version number: 0.0.2
 
 ## Overview
 Tool for signing raw transaction in bitcoin and ethereum based networks.
